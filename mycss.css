@@ -1,0 +1,150 @@
+@charset "UTF-8";
+/*my css code*/
+#about{
+	background-color:#EECB35;
+}
+.intro-title mb-4 { 
+text-emphasis-style: triangle;
+}
+.about-img{
+	width: 400px;
+	margin: 50px,0px,0px;
+}
+.lead{
+	color: #1884ED;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: 400;
+	font-family: coming-soon;
+}
+.title-left{
+	font-weight: 400;
+	font-family: cabin-sketch;
+}
+.title-a{
+	font-weight: 400;
+	font-family: cabin-sketch;
+	color: #FFFFFF;
+	margin-top: 50px;
+}
+#service{
+	background: #82CAFA;
+}
+.service-box{
+	width: 300px;
+}
+.subtitle-a{
+	color: #FFFFFF;
+	font-family: kranky;
+	font-style: normal;
+	font-weight: 400;
+	font-size: large;
+	text-emphasis-style: triangle;
+}
+#work{
+	background: #966F33;
+}
+.w-title{
+	font-family: indie-flower;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20pt;
+}
+.subtitle-b{
+	color: #ffffff;
+	font-size: 12pt;
+	font-family: annie-use-your-telescope;
+	font-style: normal;
+	font-weight: 400;
+	word-spacing: 1pt;
+}
+.s-description text-center{
+	font-family: amatic-sc;
+	font-style: normal;
+	font-weight: 400;
+	font-size: medium;
+	background-image: url(url);
+}
+.s-title{
+	font-family: kranky;
+	font-style: normal;
+	font-weight: 400;
+}
+.mallets{
+	color: #ffffff;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.content-test{
+	color: #FFFFFF;
+	font-family: amatic-sc;
+	font-style: normal;
+	font-weight: 400;
+}
+#blog{
+	background:#F79597;
+	backface-visibility: 30%;
+}
+.description{
+	color: #ffffff;
+	text-align: center;
+}
+.lead1{
+	color: #ffffff;
+	margin: 40px;
+	padding-bottom: 5px;
+	font-size: 15pt;
+	font-family: annie-use-your-telescope;
+	font-style: normal;
+	font-weight: 400;
+	word-spacing: 1pt;
+}
+.author{
+	text-transform: uppercase;
+	letter-spacing: 2pt;
+	color: #FFFFFF;
+	font-size: 30pt !important;
+}
+.col-sm-12{
+	text-align: center;
+}
+.box-shadow-full1{
+	background: #AFF2EE;
+}
+.col-md-12{
+	text-align: center;	
+}
+.subtitle-c{
+	color: #FFFFFF;
+	font-family: kranky;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20pt;
+	text-emphasis-style:triangle;
+}
+.practice{
+	margin-top: 30px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 50px;
+}
+.footer{
+	margin: 0;
+	padding: 0;
+}
+.more-info{
+	margin: 0;
+	padding: 0;
+}
+.foot1{
+	position:relative;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	color: #000000;
+}
